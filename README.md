@@ -21,7 +21,6 @@ cd console-Linesofcode-py
 ```
 
 ##  Usage
-
 To use the application, run the following command in your terminal
 
 ```sh
@@ -30,7 +29,6 @@ python app.py <path/to/file>
 Replace `<path/to/file>` with the path to the Python file you want to read.
 
 ## Example
-
 ```sh
 python app.py example.py
 ```
